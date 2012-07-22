@@ -26,6 +26,10 @@ $ make reset rss=path/to/feeds
 
 Run `make list` to make sure it worked. 
 
+## make run
+
+Start fetching data from feeds and sending e-mails if r2e is initialized.
+
 ## make import
 
 Imports feeds from given file to r2e.
